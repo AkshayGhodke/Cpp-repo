@@ -3,7 +3,7 @@
 // Author      : Akshay Ghodke
 // Version     : Testing
 // Copyright   : Your copyright notice
-// Description : Hello World in C++, Ansi-style
+// Description : Linear Time Invariant Synchronisation Algorithm in C++, Ansi-style
 //============================================================================
 
 #include <iostream>
