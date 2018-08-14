@@ -1,0 +1,7 @@
+This repository consists of c++ work
+
+myLisa.cpp
+
+  This is a cpp based implementation of Linear Time Invariant Synchronisation Algorithm
+  It basically adds a sychronizing string as a header before sending out the actual payload
+  On the receiving side it checks for the error and if its is compliant with the confidence level provided.
