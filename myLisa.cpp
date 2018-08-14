@@ -1,6 +1,6 @@
 //============================================================================
 // Name        : myLISA.cpp
-// Author      : Akshay Ghodke, Mahesh Shide, Krishank Mehta , Virginia Menezes
+// Author      : Akshay Ghodke
 // Version     : Testing
 // Copyright   : Your copyright notice
 // Description : Hello World in C++, Ansi-style
